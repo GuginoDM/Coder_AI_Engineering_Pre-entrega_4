@@ -1,0 +1,47 @@
+[
+  {
+    "page_content": "Pandas es una librería de Python para manipulación de datos. La función read_csv permite cargar dataframes desde archivos separados por comas.",
+    "metadata": {
+      "doc_id": "doc_pd_01",
+      "source": "pandas_docs",
+      "category": "dataframe",
+      "text": "Pandas es una librería de Python para manipulación de datos. La función read_csv permite cargar dataframes desde archivos separados por comas."
+    }
+  },
+  {
+    "page_content": "En Pandas, el método merge permite realizar operaciones de JOIN similares a SQL (inner, left, right, outer) combinando DataFrames por claves.",
+    "metadata": {
+      "doc_id": "doc_pd_02",
+      "source": "pandas_docs",
+      "category": "joins",
+      "text": "En Pandas, el método merge permite realizar operaciones de JOIN similares a SQL (inner, left, right, outer) combinando DataFrames por claves."
+    }
+  },
+  {
+    "page_content": "Power BI utiliza el lenguaje DAX para calcular medidas dinámicas. La función CALCULATE modifica el contexto de filtro en una expresión.",
+    "metadata": {
+      "doc_id": "doc_pbi_01",
+      "source": "powerbi_docs",
+      "category": "dax",
+      "text": "Power BI utiliza el lenguaje DAX para calcular medidas dinámicas. La función CALCULATE modifica el contexto de filtro en una expresión."
+    }
+  },
+  {
+    "page_content": "LangChain Expression Language (LCEL) permite componer cadenas declarativas. Utiliza el operador pipe '|' para conectar Prompts, LLMs y Parsers.",
+    "metadata": {
+      "doc_id": "doc_lc_01",
+      "source": "langchain_docs",
+      "category": "lcel",
+      "text": "LangChain Expression Language (LCEL) permite componer cadenas declarativas. Utiliza el operador pipe '|' para conectar Prompts, LLMs y Parsers."
+    }
+  },
+  {
+    "page_content": "Pinecone Serverless permite almacenar vectores con metadatos. La búsqueda vectorial utiliza similitud de coseno para encontrar chunks relevantes.",
+    "metadata": {
+      "doc_id": "doc_pc_01",
+      "source": "pinecone_docs",
+      "category": "vectorstore",
+      "text": "Pinecone Serverless permite almacenar vectores con metadatos. La búsqueda vectorial utiliza similitud de coseno para encontrar chunks relevantes."
+    }
+  }
+]

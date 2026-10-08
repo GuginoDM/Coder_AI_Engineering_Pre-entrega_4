@@ -1,0 +1,32 @@
+[
+    {
+      "doc_id": "doc_pd_01",
+      "text": "Pandas es una librería de Python para manipulación de datos. La función read_csv permite cargar dataframes desde archivos separados por comas.",
+      "source": "pandas_docs",
+      "category": "dataframe"
+    },
+    {
+      "doc_id": "doc_pd_02",
+      "text": "En Pandas, el método merge permite realizar operaciones de JOIN similares a SQL (inner, left, right, outer) combinando DataFrames por claves.",
+      "source": "pandas_docs",
+      "category": "joins"
+    },
+    {
+      "doc_id": "doc_pbi_01",
+      "text": "Power BI utiliza el lenguaje DAX para calcular medidas dinámicas. La función CALCULATE modifica el contexto de filtro en una expresión.",
+      "source": "powerbi_docs",
+      "category": "dax"
+    },
+    {
+      "doc_id": "doc_lc_01",
+      "text": "LangChain Expression Language (LCEL) permite componer cadenas declarativas. Utiliza el operador pipe '|' para conectar Prompts, LLMs y Parsers.",
+      "source": "langchain_docs",
+      "category": "lcel"
+    },
+    {
+      "doc_id": "doc_pc_01",
+      "text": "Pinecone Serverless permite almacenar vectores con metadatos. La búsqueda vectorial utiliza similitud de coseno para encontrar chunks relevantes.",
+      "source": "pinecone_docs",
+      "category": "vectorstore"
+    }
+  ]

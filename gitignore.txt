@@ -1,0 +1,18 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# Claves y secretos
+.env
+*.env
+
+# Archivos de Python / Cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Sistema operativo y editor
+.DS_Store
+.vscode/
+.idea/
